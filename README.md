@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @kmkukla
-- FRONTEND DEVELOPER
+👋 Hi, I’m @kmkukla, FRONTEND DEVELOPER
